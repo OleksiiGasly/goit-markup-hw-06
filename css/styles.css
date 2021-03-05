@@ -597,11 +597,9 @@ textarea {
   width: 16px;
   height: 15px;
   margin-right: 8px;
-  color: var(--title-text-color);
   background-color: var(--white-color);
   background-image: url(../images/check-none.svg);
   border-radius: 4px;
-  overflow: visible;
 }
 
 .checkbox:checked .policy-icon svg {
